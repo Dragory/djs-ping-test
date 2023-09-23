@@ -1,0 +1,11 @@
+{
+  "name": "ping-test",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {},
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1"
+  }
+}
